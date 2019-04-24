@@ -1,2 +1,0 @@
-imports:”GdipGetImageWidth” AND imports:”WriteProcessMemory” AND imports:”GdipCreateBitmapFromFile”
-AND tag:pedll
